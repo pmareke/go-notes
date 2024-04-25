@@ -27,7 +27,7 @@ Go supports two types of comments:
     - Single line comments are preceded by `//`.
     - Multiline comments are inserted between `/*` and `*/`.
 
-## Nunmbers
+## Numbers
 
 ## Arithmetic Operators
 
