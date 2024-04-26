@@ -2,12 +2,12 @@
 
 ## Resources
 
-- [Go Exercism track](https://exercism.org/tracks/go/concepts)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Go Exercism track](https://exercism.org/tracks/go/concepts)
 - [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go Documentation](https://golang.org/doc/)
-- [Go by Example](https://gobyexample.com/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go by Example](https://gobyexample.com/)
 
 ## Basics
 
