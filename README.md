@@ -53,6 +53,13 @@
 - Go supports three boolean operators: `!` (NOT), `&&` (AND), and `||` (OR).
 - The preference order is `!`, `&&`, and `||`.
 
+## Iteration
+
+- Go has only one looping construct: the `for` loop.
+- The `for` loop has three components: the initialization, the condition, and the post statement.
+- In Go there are no `( )` surrounding the three components of the for statement.
+- The braces `{ }` are always required.
+
 ## Strings Package
 
 ## Strings
