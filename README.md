@@ -67,3 +67,6 @@
 - Strings can be concatenated via the `+` operator.
 - Special characters need to be escaped with a leading backslash.
 
+## Conditionals
+
+## Packages
