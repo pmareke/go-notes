@@ -60,6 +60,10 @@
 - In Go there are no `( )` surrounding the three components of the for statement.
 - The braces `{ }` are always required.
 
-## Strings Package
-
 ## Strings
+
+- A `string` in Go is an immutable sequence of bytes.
+- A string literal is defined between double quotes.
+- Strings can be concatenated via the `+` operator.
+- Special characters need to be escaped with a leading backslash.
+
