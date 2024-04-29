@@ -69,4 +69,8 @@
 
 ## Conditionals
 
+- Conditionals in Go are similar to conditionals in other languages.
+- There are `if`, `else if`, and `else` statements.
+- If statements can also include a short initialization statement.
+
 ## Packages
